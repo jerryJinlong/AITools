@@ -5,6 +5,7 @@ package cn.kinyi.aidept;
  */
 public class Demo {
     public void testA(){
-        System.out.println("hello");
+        System.out.println();
+        System.out.println();
     }
 }
